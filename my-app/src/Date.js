@@ -1,6 +1,6 @@
 
-var year = new Date();
+//var year = new Date();
 
-var yearnow = year.getFullYear();
+var yearnow = 7//year.getFullYear();
 
 export default yearnow

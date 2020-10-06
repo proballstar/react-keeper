@@ -1,9 +1,10 @@
-import yearnow from './Date';
+import React from "react";
+//import yearnow from './Date';
 
-const React = require('react');
 
-function Footer() {
-    return <Footer> Copyright &#169 {yearnow} </Footer>
+
+function Myfoot() {
+    return <footer>Footer</footer>
 }
 
-export default Footer
+export default Myfoot
